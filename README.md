@@ -2,8 +2,7 @@
 
 ## Project description
 
-Cinema Web App is a simple RESTful web application, that supports user authentication, authorization, creating and searching cinema-halls in database,
-new movies and available movie sessions, and, of course, ticket reservation. :)
+Cinema Web App is a simple RESTful web application, that supports user authentication, authorization, also all CRUD operations for cinema halls, movies, movie sessions, orders, shopping carts and tickets.
 
 ## Functional scheme
 
