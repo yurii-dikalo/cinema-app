@@ -44,7 +44,7 @@ HTTP METHOD: /endpoint - (roles with needed authority) - request
 
 - Install TomCat and MySQL.
 - Clone this repo and open it.
-- In db.properties file of resources folder change URL, username and password to correspond with yours.
+- In db.properties file of resources folder change driver name, URL to database, username and password to correspond with yours.
 - Edit Tomcat configurations to version 9.0.50 .
 - To check if build was done succesfully - run 'mvn clean package' in terminal.
 - Press run and enjoy the app!
